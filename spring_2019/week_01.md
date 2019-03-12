@@ -1,24 +1,15 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+In the past week I installed PostgreSQL server and downloaded the code of Agency software on my VM. 
+I also spent some time studying the code of agency and watched several PHP and SQL tutorials. 
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+I plan to continue studying the code and get Agency installed on my VM.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+Nobody knows what we'll be heading to and it seems nobody got Agency running on their local machine.
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
